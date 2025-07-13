@@ -1,13 +1,13 @@
 ![MasterHead](https://github.com/shreya2526/shreya2526/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Shreya Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">GET at Berger Paints India Ltd.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya2526&label=Profile%20views&color=0e75b6&style=flat" alt="shreya2526" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working in **EBS** of Oracle
 
 - 📫 How to reach me **helloshreya01@gmail.com**
 
