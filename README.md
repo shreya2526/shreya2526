@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya2526&label=Profile%20views&color=0e75b6&style=flat" alt="shreya2526" /> </p>
 
-- 🌱 I’m currently working in **EBS** of Oracle
+- 🌱 I’m currently learning Android App Development (Kotlin).
 
 - 📫 How to reach me **helloshreya01@gmail.com**
 
