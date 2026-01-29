@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Chakraborty</h1>
 <h3 align="center">A passionate App developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya2526&label=Profile%20views&color=0e75b6&style=flat" alt="shreya2526" /> </p>
 
