@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreya2526](https://github.com/shreya2526)
+- 👨‍💻 All of my projects are available at [https://github.com/shreya2526](https://github.com/shreya2526) and [https://github.com/kushalreya](https://github.com/kushalreya)
 
 - 💬 Ask me about **Android, iOS, Cross Platform, App Development**
 
