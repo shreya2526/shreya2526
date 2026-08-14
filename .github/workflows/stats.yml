@@ -1,0 +1,81 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=shreya2526&show_icons=true&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=shreya2526&layout=compact&langs_count=6&hide_border=true&card_width=1000&bg_color=0B1020&title_color=93C5FD&text_color=C7D2FE&border_radius=16
+          path: profile/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Increase Top Languages Font Size
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("profile/top-langs.svg")
+          svg = path.read_text()
+
+          # Increase SVG font sizes by approximately 25%.
+          def increase_font(match):
+              value = float(match.group(1))
+              new_value = round(value * 1.25, 2)
+              return f'{match.group(0).replace(match.group(1), str(new_value))}'
+
+          # Handle font-size="..."
+          svg = re.sub(
+              r'font-size="([0-9.]+)"',
+              increase_font,
+              svg
+          )
+
+          # Handle font-size: ...px
+          def increase_css_font(match):
+              value = float(match.group(1))
+              new_value = round(value * 1.25, 2)
+              return f'font-size: {new_value}px'
+
+          svg = re.sub(
+              r'font-size:\s*([0-9.]+)px',
+              increase_css_font,
+              svg
+          )
+
+          path.write_text(svg)
+          PY
+
+      - name: Commit Stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git commit -m "Update GitHub stats" || exit 0
+
+          git push
