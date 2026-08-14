@@ -69,9 +69,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya2526&theme=tokyonight&hide_border=true&langs_count=6&card_width=1300" 
-    height="200"
+  <img
+    src="./profile/top-langs.svg"
+    width="100%"
+    alt="Top Languages"
   />
 </p>
 
