@@ -76,6 +76,15 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/shreya2526/shreya2526/output/activity-graph.svg"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+
 ---
 
 ## 🐍 Contribution Snake
