@@ -1,0 +1,39 @@
+name: Update GitHub Profile Assets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: shreya2526
+          options: theme=tokyo-night&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shreya2526
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#A855F7&color_dots=#111B2E,#172554,#1D4ED8,#60A5FA,#00C2FF
+      
+      - name: Publish profile assets
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
