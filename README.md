@@ -18,8 +18,7 @@
 
 - 🌱 Currently learning **Android**
 - 👨‍💻 Projects:  
-  - https://github.com/shreya2526  
-  - https://github.com/kushalreya  
+  - https://github.com/shreya2526 
 - 💬 Ask me about **Android, iOS, Cross Platform, App Development**
 - 📫 Reach me: **helloshreya01@gmail.com**
 
