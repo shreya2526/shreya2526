@@ -47,6 +47,24 @@ Currently learning and building applications while exploring modern mobile devel
 
 ---
 
+## 💻 Building Under Contraris
+
+**Contraris** is our developer identity for publishing and experimenting with Android products on Google Play.
+
+I use it to turn ideas into real products, learn through hands-on development, and continuously improve through user feedback.
+
+📱 **[View Contraris on Google Play](https://play.google.com/store/apps/developer?id=Contraris)**
+
+---
+
+## 🚀 Featured Project
+
+### 🎵 LocalWave — Local Music Player
+
+A modern offline Android music player built for a clean, responsive, and distraction-free listening experience, with persistent playback and dynamic album-based theming.
+
+---
+
 ## 📚 Currently Learning
 
 * 📱 Android Development
