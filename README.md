@@ -1,5 +1,5 @@
 <img
-src="github-header-image.png"
+src="banner-image.png"
 alt="MasterHead"
 width="100%"
 />
