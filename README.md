@@ -1,66 +1,77 @@
-![MasterHead](https://github.com/shreya2526/shreya2526/blob/main/github-header-image.png)
+<img
+src="github-header-image.png"
+alt="MasterHead"
+width="100%"
+/>
 
-<h1 align="center">Hi 👋, I'm Shreya Chakraborty</h1>
+<h1 align="center">Hey 👋, I'm Shreya Chakraborty</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=App+Developer;Android+Learner;Cross+Platform+Enthusiast;Tech+Explorer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=App+Developer;Android+Learner;Cross+Platform+Enthusiast;Tech+Explorer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreya2526&label=Profile%20views&color=0e75b6&style=flat" />
+  <img
+    src="https://komarev.com/ghpvc/?username=shreya2526&label=Profile%20Views&color=00C2FF&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="240" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" />
-
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Android**
-- 👨‍💻 Projects:  
-  - https://github.com/shreya2526 
-- 💬 Ask me about **Android, iOS, Cross Platform, App Development**
-- 📫 Reach me: **helloshreya01@gmail.com**
+<img
+align="right"
+alt="App Developer"
+width="190"
+src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif"
+/>
+
+* 📱 Currently focused on **Android development**
+* 🧩 Interested in **Android, iOS, and cross-platform app development**
+* 🌱 Continuously learning **modern application development practices**
+* 🎨 Interested in building **clean and user-friendly interfaces**
+* 💬 Ask me about **Android, iOS, Cross Platform, and App Development**
+* 🚀 Always exploring new technologies and improving my development skills
+
+---
+
+## 🚧 Currently Working On
+
+📱 **Android & Cross-Platform Development**
+
+Currently learning and building applications while exploring modern mobile development technologies, frameworks, and development practices.
+
+**🔨 Always learning. Always building.**
 
 ---
 
 ## 📚 Currently Learning
 
-- 📱 Android Development  
-- ⚡ Cross-platform frameworks (Flutter, React Native)  
-- 🌐 Modern App Development Practices  
-- 🎨 UI/UX improvements  
+* 📱 Android Development
+* ⚡ Cross-platform frameworks — Flutter & React Native
+* 🌐 Modern App Development Practices
+* 🎨 UI/UX improvements
+* 🧠 Exploring new technologies and development approaches
 
 ---
 
 ## 🧩 Core Skills
 
-- 📱 Mobile Development: Android, iOS  
-- 🌐 Web: HTML, CSS, JavaScript  
-- 🧠 Programming: C, Java, Python, Kotlin  
-- 🔥 Backend & DB: Firebase, MySQL, Oracle  
-- 🎨 UI/UX: Figma  
-- ⚙️ Tools: Git, Bootstrap  
+* 📱 **Mobile Development:** Android, iOS
+* 🌐 **Web:** HTML, CSS, JavaScript
+* 🧠 **Programming:** C, Java, Python, Kotlin
+* 🔥 **Backend & Database:** Firebase, MySQL, Oracle
+* 🎨 **UI/UX:** Figma
+* ⚙️ **Tools & Frameworks:** Git, Bootstrap
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Technologies & Tools
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shreya-chakraborty-876694232/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" width="80" />
-  </a>
-  <a href="https://twitter.com/helloshreya01" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="80" width="80" />
-  </a>
-</p>
-
----
-
-## 🧠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,aws,bootstrap,c,css,figma,firebase,flutter,git,html,java,js,kotlin,mysql,oracle,python,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,aws,bootstrap,c,css,figma,firebase,flutter,git,html,java,js,kotlin,mysql,oracle,python,react,tailwind&perline=15" />
 </p>
 
 ---
@@ -83,7 +94,6 @@
   />
 </p>
 
-
 ---
 
 ## 🐍 Contribution Snake
@@ -96,38 +106,60 @@
 
 ## 🎯 Current Focus
 
-- 🚀 Improving Android development skills  
-- 📱 Building cross-platform applications  
-- 🧠 Learning modern tools & frameworks  
+* 🚀 Improving Android development skills
+* 📱 Building cross-platform applications
+* 🧠 Learning modern tools and frameworks
+* 🎨 Creating better and more user-friendly app experiences
+* 🌱 Continuously expanding software development knowledge
 
 ---
 
-## 🧠 Developer Mindset
+## 💡 Developer Mindset
 
-- Build practical and useful applications  
-- Keep code clean and maintainable  
-- Always keep learning 🚀  
-
----
-
-## ⭐ Highlight
-
-🚀 Passionate about **App Development & Cross-Platform Solutions**  
-💡 Focused on building **efficient and user-friendly applications**
+* 🛠️ Build practical and useful applications
+* 🧹 Keep code clean and maintainable
+* 🧠 Learn by building and experimenting
+* 🚀 Continuously improve development skills
+* 🌱 Stay curious and keep learning
 
 ---
 
-## ⚡ Final Note
+## ⭐ What I Enjoy
 
-I’m passionate about building apps that are **functional, user-friendly, and impactful**.
+🚀 Exploring **App Development & Cross-Platform Solutions**
 
-Always open to:
-- 💼 Collaborations  
-- 🚀 New projects  
-- 💡 Ideas  
-- 🧠 Learning opportunities  
+💡 Building **efficient and user-friendly applications**
+
+🧠 Learning **new technologies, tools, and development practices**
 
 ---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-chakraborty-876694232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/helloshreya01" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shreya2526">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>📧 Reach me at</b><br>
+  <a href="mailto:helloshreya01@gmail.com">helloshreya01@gmail.com</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Keep learning, keep building, and keep exploring. 🚀</i>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2500&color=00C2FF&center=true&vCenter=true&width=650&lines=Keep+Learning+🚀;Build+Amazing+Apps;Stay+Consistent+🧠" />
